@@ -1,5 +1,11 @@
 ASl Translation API
 
+In Progress:
+OpenCV: For image and video processing.
+MediaPipe: For hand tracking and gesture recognition.
+TensorFlow/Keras: For ML model.
+Backend: For creating API and HTTP requests.
+
 Description:
 API Endpoint that receives text input in english and returns a simple JSON response indicating successful translation or not. 
 
